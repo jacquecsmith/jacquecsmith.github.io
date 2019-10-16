@@ -11,6 +11,7 @@ h1 {
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size: 60px;
+	letter-spacing: .1em;
 	font-family: 'Jua', sans-serif;
 	padding-top: 30px;
 }
@@ -18,10 +19,11 @@ h1 {
 h2 {
 	color: #B30F00;
 	text-transform: uppercase;
-	font-weight: bold;
+	font-weight: normal;
+	font-size: 35px;
 	font-family: 'Jua', sans-serif;
-	padding-top: 30px;
-	padding-bottom: 40px;
+	padding-top: 40px;
+	padding-bottom: 30px;
 }
 
 p, li {
@@ -48,3 +50,6 @@ hr	{
 	margin-top: 50px;
 }
 
+img	{
+	padding-bottom: 20px;
+}
