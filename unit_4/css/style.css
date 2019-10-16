@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Jua|Tinos);
+
+body {
+	text-align: center;
+	background-color: rgb(0,0,0);
+	font-family: sans-serif;
+}
+
+h1 {
+	color: #00B34F;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 60px;
+	font-family: 'Jua', sans-serif;
+	padding-top: 30px;
+}
+
+h2 {
+	color: #B30F00;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: 'Jua', sans-serif;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+
+p, li {
+	color: #FFF;
+	font-family: 'Tinos', serif;
+	line-height: 1.5em;
+}
+
+a {
+	text-decoration: none;
+}
+
+#slogan {
+	font-style: italic;
+	padding-bottom: 20px;
+}
+
+ul {
+	display: inline-block;
+	text-align: left;
+}
+
+hr	{
+	margin-top: 50px;
+}
+
