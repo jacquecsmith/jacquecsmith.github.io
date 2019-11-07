@@ -1,0 +1,143 @@
+@import url(https://fonts.googleapis.com/css?family=Jua|Tinos);
+
+body {
+	text-align: center;
+	background-color: rgb(0,0,0);
+	font-family: sans-serif;
+}
+
+h1 {
+	color: #00B34F;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 60px;
+	letter-spacing: .1em;
+	font-family: 'Jua', sans-serif;
+	padding-top: 30px;
+}
+
+h2 {
+	color: #B30F00;
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 35px;
+	font-family: 'Jua', sans-serif;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+
+p, li {
+	color: #FFF;
+	font-family: 'Tinos', serif;
+	line-height: 1.5em;
+}
+
+a {
+	text-decoration: none;
+}
+
+#slogan {
+	font-style: italic;
+	padding-bottom: 20px;
+}
+
+ul {
+	display: inline-block;
+	text-align: left;
+}
+
+hr	{
+	margin-top: 50px;
+}
+
+img	{
+	padding-bottom: 20px;
+	display: inline-block;
+}
+
+header {
+    background: url("https://i.imgur.com/HxiCWK9.jpg");
+    background-color: #004165;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    border: 1px black solid;
+    padding: 20px;
+    height: 32.43055556vw; 
+    max-height: 900px;
+    min-height: 671px;
+    position: relative;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 54%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 38%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+iframe {
+    float: right;
+    width: 100%;
+}
+
+#header_right {
+    background-color: #808080;
+    border: none;
+    padding: 50px;
+    float: right;
+    width: 38%;
+}
